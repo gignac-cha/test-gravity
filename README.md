@@ -55,8 +55,8 @@ The simulation uses precise real-world values:
 
 ### Prerequisites
 
-- Node.js 20+
-- npm or yarn
+- Node.js 24+
+- pnpm
 
 ### Setup
 
@@ -66,20 +66,20 @@ git clone https://github.com/gignac-cha/test-gravity.git
 cd test-gravity
 
 # Install dependencies
-npm install
+pnpm install
 
 # Start development server
-npm run dev
+pnpm run dev
 ```
 
 ### Build
 
 ```bash
 # Build for production
-npm run build
+pnpm run build
 
 # Preview production build
-npm run preview
+pnpm run preview
 ```
 
 ## 📊 Simulation Details

@@ -1,0 +1,17 @@
+{
+	"name": "test-gravity",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@types/node": "^24.0.10",
+		"eslint": "^9.30.1",
+		"prettier": "^3.6.2",
+		"sass": "^1.89.2",
+		"typescript": "^5.8.3",
+		"vite": "^7.0.2"
+	}
+}
